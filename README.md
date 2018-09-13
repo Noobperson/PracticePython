@@ -1,1 +1,3 @@
 # PracticePython
+
+Basically, practicing python. 
